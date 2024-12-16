@@ -3,9 +3,11 @@
 
 |윤수민|이재철|박민혁|송문택|
 |---|---|---|---|
-|풀스택|EDA||분석|
+|![숨](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-2Team/blob/main/image/%EC%88%A8.jpg)|![나](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-2Team/blob/main/image/%EA%B5%BF%EB%AA%A8%EB%8B%9D.jpg)|![민](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-2Team/blob/main/image/%EB%AF%BC%ED%98%81.jpg)|![송](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-2Team/blob/main/image/dd.jpg)|
+|풀스택|EDA|분석|
 
 ---
+
 # 프로젝트 개요
 
 통신사에서는 매년 상당한 고객이 서비스를 해지(이탈)하며, 이는 기업의 수익성과 고객 유지 비용에 큰 영향을 미칩니다. 고객 이탈을 사전에 예측하고 이를 방지하기 위한 전략을 세우는 것은 통신사의 지속 가능한 성장에 필수적입니다. 본 프로젝트는 Kaggle의 Cell2Cell 데이터를 활용하여 딥러닝 기반의 고객 이탈 예측 모델을 개발하는 것을 목표로 합니다.

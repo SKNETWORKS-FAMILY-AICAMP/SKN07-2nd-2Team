@@ -27,9 +27,4 @@
   데이터를 활용한 예측 모델은 고객 행동을 더 잘 이해하고, 통신사 서비스의 경쟁력을 강화하는 데 기여.
 
 
-## 
-
-
-* 국내  
-
-![Gallup 국내 스마트폰 관련 조사 2012-2024](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-2Team/blob/main/image/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%EC%82%AC%EC%9A%A9%20%EC%B0%A8%ED%8A%B8.png)
+##

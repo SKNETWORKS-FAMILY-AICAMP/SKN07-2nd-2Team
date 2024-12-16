@@ -1,10 +1,10 @@
 # SKN07-2nd-2Team
 ### 2nd Project - Telco Customer Churn / 통신사 고객 이탈 예측
-
+#### 팀원소개
 |윤수민|이재철|박민혁|송문택|
 |---|---|---|---|
 |![숨](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-2Team/blob/main/image/%EC%88%A8.jpg)|![나](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-2Team/blob/main/image/%EA%B5%BF%EB%AA%A8%EB%8B%9D.jpg)|![민](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-2Team/blob/main/image/%EB%AF%BC%ED%98%81.jpg)|![송](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-2Team/blob/main/image/dd.jpg)|
-|풀스택|EDA|분석|
+|풀스택|전처리, 모델구축|EDA, 전처리|분석|
 
 ---
 

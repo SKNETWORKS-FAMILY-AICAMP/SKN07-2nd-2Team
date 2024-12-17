@@ -6,7 +6,7 @@
 |윤수민|이재철|박민혁|송문택|
 |---|---|---|---|
 |![숨](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-2Team/blob/main/image/y.jpg)|![나](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-2Team/blob/main/image/l.jpg)|![민](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-2Team/blob/main/image/p.jpg)|![송](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-2Team/blob/main/image/s.jpg)|
-|풀스택|모델 설계, 전처리|EDA, 전처리, 모델설계|자료조사|
+|풀스택|모델 설계, 전처리|EDA, 모델설계, 전처리|자료조사|
 
 ---
 
